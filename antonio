@@ -1,0 +1,6 @@
+hi my name is antonio i am bsc cs 
+#include<stdio.h>
+void main()
+{
+printf("Hello world!"),
+}
